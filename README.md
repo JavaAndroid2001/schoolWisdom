@@ -1,6 +1,5 @@
 # 智慧校园(半成品)
 ### 选用技术：uniapp
-uniappdemo
 ### 项目截图：
 ![image](https://note.youdao.com/yws/public/resource/868417923d84673319321a01d7ad6977/xmlnote/7AB8867B482241C4AE85505FCE5CA083/EE58CE9FB6954C14BBA5811240729A7E/12944)
 ![image](https://note.youdao.com/yws/public/resource/868417923d84673319321a01d7ad6977/xmlnote/7AB8867B482241C4AE85505FCE5CA083/DE82CF000460454DA868AF4F87ACF2DC/12947)
